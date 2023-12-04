@@ -5,7 +5,7 @@
 (https://drive.google.com/file/d/1cO-7hHGZecQxYXAzPPdQYMUtmOegx35I/view?usp=share_link)
 
 2) The final directory structure should look like this
-Team_12
+Human-Activity-Recognition
 |
 |------ ``script.py``
 |
@@ -46,20 +46,16 @@ Team_12
 ### Misc.
 1) The ``script.py`` file only runs on the full feature dataset but the partial feature models have been included in the submission.
 
-2) The training folder contains the notebooks for video classification on UCF and other models which we have explored.
+2) The training folder contains the notebooks for other models which we have explored.
 
 3) ``requirements.txt`` contains the requirements for only the main project (on the PAMAP2 dataset)
 
 4) The PAMAP2 dataset can be downloaded at - https://drive.google.com/drive/folders/114oSmTfKEnTmaXk9hdVPMdXs1KbZIrxY?usp=share_link
 
-5) The UCF50 dataset can be downloaded at - https://drive.google.com/drive/folders/1V4QvWDL1xv99dYymLFrqmkumdE0PEW17?usp=share_link
+5) The HAR dataset can be downloaded at - https://iiitaphyd-my.sharepoint.com/personal/sharanya_b_students_iiit_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsharanya%5Fb%5Fstudents%5Fiiit%5Fac%5Fin%2FDocuments%2FSMAI%2DS23%2DProjectFiles%2FUCI%20HAR%20Dataset%2Ezip&parent=%2Fpersonal%2Fsharanya%5Fb%5Fstudents%5Fiiit%5Fac%5Fin%2FDocuments%2FSMAI%2DS23%2DProjectFiles&ga=1
 
-6) The HAR dataset can be downloaded at - https://iiitaphyd-my.sharepoint.com/personal/sharanya_b_students_iiit_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsharanya%5Fb%5Fstudents%5Fiiit%5Fac%5Fin%2FDocuments%2FSMAI%2DS23%2DProjectFiles%2FUCI%20HAR%20Dataset%2Ezip&parent=%2Fpersonal%2Fsharanya%5Fb%5Fstudents%5Fiiit%5Fac%5Fin%2FDocuments%2FSMAI%2DS23%2DProjectFiles&ga=1
+6) The ``Extra Experiments`` in the training folder contains the python notebooks for the other experiments we have performed.
 
-7) The HMDB51 dataset can be downloaded at - https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/
-
-8) The ``Extra Experiments`` in the training folder contains the python notebooks for the other experiments we have performed.
-
-9) The SVM model has not been included in ``script.py`` as it requires extra preprocessing steps. It can be viewed in the ipynb file in the training folder.
+7) The SVM model has not been included in ``script.py`` as it requires extra preprocessing steps. It can be viewed in the ipynb file in the training folder.
 
 
